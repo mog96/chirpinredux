@@ -28,4 +28,4 @@ Time spent: `13`
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/mog96/chirpinredux/blob/master/Twitter%20User%20Stories.gif)
